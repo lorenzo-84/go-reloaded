@@ -1,0 +1,7 @@
+Bonjour tout le Monde (low) .
+j'ai acheté 1E (hex) pommes et 10 (bin) oranges.
+hier, je suis allé au marché avec mon AMI (low) .
+il faisait beau et nous avons acheté 3 pommes (up) et 2 poires (up) .
+je veux manger un ananas, mais aussi une orange.
+ce nombre est 101 (bin) et celui-ci est 2A (hex).
+nous avons passé une bonne journée ! qu'est-ce que tu en penses ?
